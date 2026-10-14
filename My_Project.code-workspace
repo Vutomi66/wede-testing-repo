@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "My_Project",
+			"path": "."
+		},
+		{
+			"name": "Desktop",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

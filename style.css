@@ -1,0 +1,34 @@
+#hero-content h2 {
+    font: 90px;
+    ;
+}
+
+#hero-content p {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+#hero-content .call-to-action-bin {
+    margin-top: 20px;
+}
+
+#hero-content .call-to-action-bin {
+    margin: 40px;
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid darkslategray;
+    text-decoration: none;
+    border-radius: 50px;
+
+}
+
+#brief-section {
+    margin: 10px;
+    padding: 10px;
+}
+
+#brief-section h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
